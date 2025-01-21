@@ -36,7 +36,7 @@ Ambos os componentes usam a mesma API backend, que também foi desenvolvida com 
 ### Banco Externo
 Os dados dos utilizadores, anúncios, favoritos e categorias são armazenados em uma base de dados externa gerida pela API Laravel.
 <div align="center">
- <img src="images/db.png" alt="Base de Dados" width="300">
+ <img src="db.png" alt="Base de Dados" width="300">
 </div>
 
 ---
