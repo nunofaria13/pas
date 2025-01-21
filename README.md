@@ -50,7 +50,7 @@ GET /api/categories
 ```
 | Tipo       | Descrição                           |
 |------------|-------------------------------------------|
-| `Array`    | Retorna todas as categorias cadastradas   |
+| `Array`    | Retorna todas as categorias registadas    |
 
 ### Obter Anúncios por Categoria
 
