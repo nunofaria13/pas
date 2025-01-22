@@ -16,7 +16,6 @@ Ambos os componentes usam a mesma API backend, que também foi desenvolvida com 
   - Gestão de utilizadores: Registo, login e logout.
   - Criação de anúncios: Os utilizadores podem criar anúncios com título, descrição, preço e categoria.
   - Navegação por categorias: Visualizar anúncios agrupados por categorias.
-  - Favoritos: Marcar anúncios como favoritos para acessá-los facilmente.
   - Excluir anúncios: Gerir e excluir anúncios diretamente na aplicação.
 
 
