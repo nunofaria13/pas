@@ -26,7 +26,8 @@ Ambos os componentes usam a mesma API backend, que também foi desenvolvida com 
 - **Java**: Desenvolvimento da aplicação Android.
 - **Laravel**: Desenvolvimento do backend e do site.
 - **Retrofit**: Integração do aplicação Android com a API.
-- **Material Design**: Para criar uma interface moderna e responsiva.
+- **Material Design**: Para criar uma interface moderna e responsiva na Aplicação Android.
+- **Bootstrap**: Para criar uma interface moderna e responsiva no Website.
 
 ---
 
